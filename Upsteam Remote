@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usally used for, in your own words
+Git remote creates a short cut for you to upload all content on to github, or any repository for that matter, rather then using the full URL everytime. 
